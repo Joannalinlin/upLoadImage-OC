@@ -27,7 +27,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor greenColor];
+    
+    self.view.layer.cornerRadius = 40;
     
 #warning 1. 创建登录注册页面
     // 登录注册类调用

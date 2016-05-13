@@ -53,6 +53,7 @@
 		B87696FA1C7EF6F9003DDFF3 /* phpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B87696F91C7EF6F9003DDFF3 /* phpTests.m */; };
 		B87697051C7EF6F9003DDFF3 /* phpUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B87697041C7EF6F9003DDFF3 /* phpUITests.m */; };
 		B887376F1C8C8F5900DF2973 /* hello.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B887376E1C8C8F5900DF2973 /* hello.jpg */; };
+		B8FA4E881CE5F0B000E0A18A /* ceshi in Resources */ = {isa = PBXBuildFile; fileRef = B8FA4E871CE5F0B000E0A18A /* ceshi */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -168,6 +169,7 @@
 		B87697041C7EF6F9003DDFF3 /* phpUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = phpUITests.m; sourceTree = "<group>"; };
 		B87697061C7EF6F9003DDFF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B887376E1C8C8F5900DF2973 /* hello.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hello.jpg; sourceTree = "<group>"; };
+		B8FA4E871CE5F0B000E0A18A /* ceshi */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ceshi; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -395,6 +397,7 @@
 				B87696E31C7EF6F9003DDFF3 /* AppDelegate.m */,
 				B87696E51C7EF6F9003DDFF3 /* ViewController.h */,
 				B87696E61C7EF6F9003DDFF3 /* ViewController.m */,
+				B8FA4E871CE5F0B000E0A18A /* ceshi */,
 				B8761A9D1C92B66500EAE836 /* MainViewController.h */,
 				B8761A9E1C92B66500EAE836 /* MainViewController.m */,
 				B87696E81C7EF6F9003DDFF3 /* Main.storyboard */,
@@ -540,6 +543,7 @@
 				B8761AF81C931A5300EAE836 /* back.jpg in Resources */,
 				B87696EF1C7EF6F9003DDFF3 /* LaunchScreen.storyboard in Resources */,
 				B8761AFB1C931A5300EAE836 /* zhenxiang.png in Resources */,
+				B8FA4E881CE5F0B000E0A18A /* ceshi in Resources */,
 				B87696EC1C7EF6F9003DDFF3 /* Assets.xcassets in Resources */,
 				B8761B051C931A5300EAE836 /* LICENSE in Resources */,
 				B87696EA1C7EF6F9003DDFF3 /* Main.storyboard in Resources */,
