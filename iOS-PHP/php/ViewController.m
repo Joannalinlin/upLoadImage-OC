@@ -27,7 +27,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.view.backgroundColor = [UIColor greenColor];
+    self.view.backgroundColor = [UIColor whiteColor];
     
 #warning 1. 创建登录注册页面
     // 登录注册类调用
