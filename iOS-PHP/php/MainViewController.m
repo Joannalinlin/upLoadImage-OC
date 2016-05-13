@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor whiteColor];
+    
     
     UIImageView *imageV = [[UIImageView alloc] initWithFrame:CGRectMake(50, 100, 200, 200)];
     imageV.backgroundColor = [UIColor greenColor];
